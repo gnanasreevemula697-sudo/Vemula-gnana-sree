@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FingerTrace Bio",
+  "description": "A biometric-style fingerprint tracing application. Upload hand images to extract ridge patterns and generate PDF reports using client-side computer vision.",
+  "requestFramePermissions": []
+}
